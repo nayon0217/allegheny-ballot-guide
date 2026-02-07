@@ -49,3 +49,6 @@ npm run dev
 [3] IPCC AR6 WGIII, Chapter 8 (Urban Systems): https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-8/
 
 [4] U.S. EPA, Smart Growth and Transportation (local planning and emissions): https://www.epa.gov/smartgrowth/smart-growth-and-transportation
+
+## URL
+https://ballotguide.vercel.app/
